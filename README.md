@@ -42,4 +42,5 @@ Controle os LEDs RGB → O brilho dos LEDs Vermelho e Azul varia conforme a posi
 Botão A (GPIO 5) → Liga/Desliga apenas os LEDs RGB.
 Botão do Joystick (GPIO 22) → Liga/Desliga o LED Verde e a borda do display.
 
-
+## Vídeo Demonstrativo
+https://youtu.be/s7JPx3l4MmI
